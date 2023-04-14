@@ -10,3 +10,10 @@ window.onload = function() {
   console.log("Hello Rigo from the console!");
 };
 console.log("Hello");
+
+let excuses;
+
+let who = ["Anibal Lecter", "Ronaldinho", "Robert Downey Jr", "A cat"];
+let action = ["ate", "broke", "make a paper plane", "cook"];
+let what = ["to my mom", "to my Ferrari", "to my Black Lotus", "to my bike"];
+let when = ["now", "three days ago", "yesterday", "in 476 A.C"];
