@@ -29,29 +29,5 @@ window.onload = function() {
   console.log("hola");
   console.log("Hello Rigo from the console!");
 };
-
-  let who2=["Lionel Messi", "Nicolas Tesla", "Richard Garfield", "Bloody Mary"];
-  let action2=["killed","play", "cooked", "slept with"];
-  let what2 =["my dog", "a plane", "a football supporter", "a board ganme"];
-  let when=["when you was sleeping", "last week","during Christmas", "in Saint George"];
-
-  let number5 = Math.floor(Math.random() * who2.length);
-  let random5 = who[number5];
-
-  let number6 = Math.floor(Math.random() * action2.length);
-  let random6 = action[number6];
-
-  let number7 = Math.floor(Math.random() * what2.length);
-  let random7 = what[number7];
-
-  let number8 = Math.floor(Math.random() * when2.length);
-  let random8 = when[number8];
-  document.getElementById("excuse2").innerHTML =
-  random5 + " " + random6 + " " + random7 + " " + random8;
-  document.getElementById(random5).innerHTML=random5 +" ...";
-  document.getElementById(random6).innerHTML=random5 +" ...";
-  document.getElementById(random7).innerHTML=random5 +" ...";
-  document.getElementById(random8).innerHTML=random5 +" ...";
-  
-
-
+console.log("hola");
+console.log("Hello Rigo from the console!");
